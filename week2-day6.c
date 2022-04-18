@@ -2,22 +2,22 @@
 #include<stdio.h>
 #include<math.h>
 /*
-int main()//ÏÔÊ¾RuntimeError
+int main()//æ˜¾ç¤ºRuntimeError
 {
-    int i;//ÊäÈëµÄÕûÊı
-    int j = 0;//ÕûÊıµÄÎ»Êı
+    int i;//è¾“å…¥çš„æ•´æ•°
+    int j = 0;//æ•´æ•°çš„ä½æ•°
     scanf("%d", &i);
     int x = i;
-    while (x != 0) {//µÃµ½ÕûÊıµÄÎ»Êı
+    while (x != 0) {//å¾—åˆ°æ•´æ•°çš„ä½æ•°
         j++;
         x = x / 10;
     }
     int k = j / 2;
     int l = k;
     int p = 1;
-    int m, n;//m,n·Ö±ğ±íÊ¾¸ßµÍÎ»
-    int q, r;//ÎªÁË%¿ÉÒÔÕı³£ÔËĞĞ
-    if (j == 2 * k) {//Î»ÊıÎªÅ¼Êı
+    int m, n;//m,nåˆ†åˆ«è¡¨ç¤ºé«˜ä½ä½
+    int q, r;//ä¸ºäº†%å¯ä»¥æ­£å¸¸è¿è¡Œ
+    if (j == 2 * k) {//ä½æ•°ä¸ºå¶æ•°
         while (l) {
             q = i / pow(10, k + l - 1);
             m = q % 10;
@@ -32,7 +32,7 @@ int main()//ÏÔÊ¾RuntimeError
         }
         printf("yes");
     }
-    else{//Î»ÊıÎªÆæÊı
+    else{//ä½æ•°ä¸ºå¥‡æ•°
         while (l >= 0) {
             q = i / pow(10, k + l);
             m = q % 10;
@@ -50,7 +50,7 @@ int main()//ÏÔÊ¾RuntimeError
     return 0;
 }
 */
-int main(void) {//½«ËùÊäÈëµÄÊı¾İ×ª»»Îª·´ÏòË³Ğò£¬È»ºóÔÙÔÚºóÃæµÄÌõ¼şÓï¾äÅĞ¶ÏÁ½×éÊı¾İÊÇ·ñÎÇºÏ
+int main(void) {//å°†æ‰€è¾“å…¥çš„æ•°æ®è½¬æ¢ä¸ºåå‘é¡ºåºï¼Œç„¶åå†åœ¨åé¢çš„æ¡ä»¶è¯­å¥åˆ¤æ–­ä¸¤ç»„æ•°æ®æ˜¯å¦å»åˆ
     int sum, k, m;
     scanf("%d", &k);
     sum = 0;
