@@ -1,2 +1,2 @@
 # Graduate-Entrance-Examination
-记录考研过程中C语言相关训练
+考研过程中C语言的相关训练
