@@ -1,2 +1,2 @@
 # Graduate-Entrance-Examination
-C督学营作业
+记录考研过程中C语言相关训练
