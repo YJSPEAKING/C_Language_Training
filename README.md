@@ -23,7 +23,7 @@
         <td>判断对称数</td>
     </tr>
     <tr> 
-    	<td>文件</td>
-        <td>内容</td>
+    	<td>暂无</td>
+        <td>暂无</td>
     </tr>
 </table>
