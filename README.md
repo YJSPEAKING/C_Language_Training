@@ -1,4 +1,4 @@
-# Graduate-Entrance-Examination
+# C_Language_Training
 
 ✨**C语言**的相关训练✨
 
