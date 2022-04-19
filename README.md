@@ -2,10 +2,10 @@
 
 考研过程中**C语言**的相关训练
 
-# 内容
+# 过程记录
 
 <table>
-<caption></caption>
+<caption>具体内容</caption>
     <tr> 
     	<th>日期</th>
         <th>文件夹</th>
