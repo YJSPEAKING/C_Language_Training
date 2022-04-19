@@ -19,7 +19,7 @@
     <tr> 
     	<td rowspan="2">2022.4.18</td>
         <td rowspan="2">week2_day6</td>
-        <td>symmetry_number.c</td>
+        <td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/week2_day6/symmetry_number.c" target="_blank">symmetry_number.c</a></td>
         <td>判断对称数</td>
     </tr>
     <tr> 
