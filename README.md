@@ -37,3 +37,19 @@
 
 
 ###  [力扣 / LeetCode](https://leetcode-cn.com/problemset/all/)
+
+<table>
+	<tr> 
+			<th>类别</th>
+			<th>题型</th>
+			<th>题目</th>
+			<th>内容</th>
+	</tr>
+	<tr> 
+			<td>数组</td>
+			<td>（无）</td>
+			<td><a href="https://leetcode-cn.com/problems/two-sum/" target="_blank">两数之和</a></td>
+			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/LeetCode/Array/0001_Two_Sum.c" target="_blank">解答</a></td>
+	</tr>
+	
+</table>
