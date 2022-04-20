@@ -1,6 +1,6 @@
 # C_Language_Training
 
-✨记录**C语言**训练的点点滴滴✨
+✨记录**C/C++语言**训练的点点滴滴✨
 
 <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic4.zhimg.com%2Fv2-410e3a519103c59934daff1a1f1dcc57_180x120.jpg&refer=http%3A%2F%2Fpic4.zhimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1652924850&t=107615f4bd8c4254ad1f8be5a3065ad0#pic_center" width="30%"></img>
 
