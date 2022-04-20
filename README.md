@@ -9,28 +9,24 @@
 ### [王道OJ](http://oj.lgwenda.com/)
 
 <table>
-    <tr>
-    	<th colspan="4">具体内容</th>
+	<tr>
+			<th colspan="4">具体内容</th>
+	</tr>
+    <tr> 
+			<th>学习章节</th>
+			<th>题目</th>
+			<th>内容</th>
     </tr>
     <tr> 
-    	<th>学习章节</th>
-        <th>题目</th>
-        <th>内容</th>
+			<td>Chapter2：数据类型、运算符与表达式</td>
+			<td><a href="http://oj.lgwenda.com/problem/6" target="_blank">week2_day6</a></td>
+			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter2/symmetry_number.c" target="_blank">判断对称数</a></td>
     </tr>
-    <tr> 
-        <td rowspan="2">Chapter2：数据类型、运算符与表达式
-</td>
-        <td><a href="http://oj.lgwenda.com/problem/6" target="_blank">week2_day6</a></td>
-        <td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter2/symmetry_number.c" target="_blank">判断对称数</a></td>
-    </tr>
-    <tr> 
-    	<td><a href="http://oj.lgwenda.com/problem/7" target="_blank">week3_day7</a></td>
-    	<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter2/factorial.c" target="_blank">求n的阶乘</a></td>
-    </tr>
-    <td rowspan="2">Chapter3</td>
-        <td><a href="        " target="_blank">          </a></td>
-    	<td><a href="        " target="_blank">          </a></td>
-    </tr>
+     <tr>
+			<td rowspan="2">Chapter3：选择与循环</td>
+			<td><a href="http://oj.lgwenda.com/problem/7" target="_blank">week3_day7</a></td>
+			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter2/factorial.c" target="_blank">求n的阶乘</a></td>
+     </tr>
 </table>
 
 
