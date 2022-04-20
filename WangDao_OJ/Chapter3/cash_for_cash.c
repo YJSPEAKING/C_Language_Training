@@ -2,8 +2,8 @@
 #include<stdio.h>
 int main()
 {
-	int ten = 1, five = 1, two = 1, one = 1;//ÖÁÉÙÒ»ÕÅ
-	int way = 0;//»»·¨ÊıÁ¿
+	int ten = 1, five = 1, two = 1, one = 1;//è‡³å°‘ä¸€å¼ 
+	int way = 0;//æ¢æ³•æ•°é‡
 	for (ten = 1; ten <= 10; ten++) {
 		for (five = 1; five <= 20; five++) {
 			for (two = 1; two <= 50; two++) {
