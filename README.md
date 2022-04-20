@@ -9,9 +9,6 @@
 ### [王道OJ](http://oj.lgwenda.com/)
 
 <table>
-	<tr>
-			<th colspan="4">具体内容</th>
-	</tr>
 	<tr> 
 			<th>学习章节</th>
 			<th>题目</th>
