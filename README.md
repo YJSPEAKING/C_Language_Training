@@ -37,7 +37,7 @@
 	<tr>
 			<td rowspan="2">Chapter3：选择与循环</td>
 			<td><a href="http://oj.lgwenda.com/problem/7" target="_blank">week3_day7_1</a></td>
-			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter2/factorial.c" target="_blank">求n的阶乘</a></td>
+			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter3/factorial.c" target="_blank">求n的阶乘</a></td>
 	</tr>
 	<tr>
 			<td><a href="http://oj.lgwenda.com/problem/8" target="_blank">week3_day7_2</a></td>
@@ -46,7 +46,11 @@
 	<tr>
 			<td rowspan="2">Chapter4：数组</td>
 			<td><a href="http://oj.lgwenda.com/problem/9" target="_blank">week3_day8</a></td>
-			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter3/quantity_of_2.c" target="_blank">统计2出现次数</a></td>
+			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter4/quantity_of_2.c" target="_blank">统计2出现次数</a></td>
+	</tr>
+	<tr>
+			<td><a href="http://oj.lgwenda.com/problem/10" target="_blank">week3_day9</a></td>
+			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter4/reverse_judge.c" target="_blank">判断反转后字符串是否相同</a></td>
 	</tr>
 </table>
 
