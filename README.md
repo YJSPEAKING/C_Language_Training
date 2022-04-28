@@ -57,6 +57,10 @@
 			<td><a href="http://oj.lgwenda.com/problem/11" target="_blank">week3_day10</a></td>
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter5/week4_day10.c" target="_blank">调用子函数除以2</a></td>
 	</tr>
+	<tr>
+			<td><a href="http://oj.lgwenda.com/problem/12" target="_blank">week3_day11</a></td>
+			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter5/week4_day11.c" target="_blank"> malloc申请堆空间</a></td>
+	</tr>
 </table>
 
 ***
