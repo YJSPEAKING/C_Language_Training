@@ -63,7 +63,7 @@
 	</tr>
 	<tr>
 			<td>Chapter6：函数</td>
-			<td><a href="http://oj.lgwenda.com/problem/13" target="_blank">week3_day10</a></td>
+			<td><a href="http://oj.lgwenda.com/problem/13" target="_blank">week3_day12</a></td>
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter6/week4_day12.c" target="_blank">递归函数求台阶上法</a></td>
 	</tr>
 </table>
