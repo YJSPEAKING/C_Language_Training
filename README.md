@@ -52,6 +52,11 @@
 			<td><a href="http://oj.lgwenda.com/problem/10" target="_blank">week3_day9</a></td>
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter4/reverse_judge.c" target="_blank">判断反转后字符串是否相同</a></td>
 	</tr>
+	<tr>
+			<td rowspan="2">Chapter5：指针</td>
+			<td><a href="http://oj.lgwenda.com/problem/11" target="_blank">week3_day10</a></td>
+			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter5/week4_day10.c" target="_blank">调用子函数除以2</a></td>
+	</tr>
 </table>
 
 ***
