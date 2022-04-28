@@ -81,8 +81,8 @@ int main() {
 	scanf("%d", &n);
 	p = (char*)malloc(n);
 	//fflush(stdin);//fflush已经不能用了
-	rewind(stdin);//清空缓冲区
-	/*或使用以下来清空缓冲区中的换行(oj中只有这种能ac)
+	rewind(stdin);//VS中可以使用rewind清空缓冲区
+	/*或使用以下来清空缓冲区中的换行(oj中使用的是GCC，只有这种能ac)
 	char c;
 	scanf("%c", &c);
 	*/
