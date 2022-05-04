@@ -54,17 +54,22 @@
 	</tr>
 	<tr>
 			<td rowspan="2">Chapter5：指针</td>
-			<td><a href="http://oj.lgwenda.com/problem/11" target="_blank">week3_day10</a></td>
+			<td><a href="http://oj.lgwenda.com/problem/11" target="_blank">week4_day10</a></td>
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter5/week4_day10.c" target="_blank">调用子函数除以2</a></td>
 	</tr>
 	<tr>
-			<td><a href="http://oj.lgwenda.com/problem/12" target="_blank">week3_day11</a></td>
+			<td><a href="http://oj.lgwenda.com/problem/12" target="_blank">week4_day11</a></td>
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter5/week4_day11.c" target="_blank"> malloc申请堆空间</a></td>
 	</tr>
 	<tr>
 			<td>Chapter6：函数</td>
-			<td><a href="http://oj.lgwenda.com/problem/13" target="_blank">week3_day12</a></td>
+			<td><a href="http://oj.lgwenda.com/problem/13" target="_blank">week4_day12</a></td>
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter6/week4_day12.c" target="_blank">递归函数求台阶上法</a></td>
+	</tr>
+	<tr>
+			<td>Chapter7：结构体</td>
+			<td><a href="http://oj.lgwenda.com/problem/14" target="_blank">中级-day1</a></td>
+			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter7/day1.c" target="_blank">结构体输入输出</a></td>
 	</tr>
 </table>
 
