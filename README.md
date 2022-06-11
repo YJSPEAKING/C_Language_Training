@@ -1,4 +1,4 @@
-# C_Language_Training
+[# C_Language_Training
 
 <div align=center>
 ✨记录C/C++语言训练的点点滴滴✨
@@ -107,3 +107,4 @@
 	</tr>
 
 </table>
+](http://oj.lgwenda.com/problem/15)
