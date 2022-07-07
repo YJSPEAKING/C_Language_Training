@@ -67,13 +67,17 @@
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter6/week4_day12.c" target="_blank">递归函数求台阶上法</a></td>
 	</tr>
 	<tr>
-			<td rowspan="2">Chapter7：结构体</td>
+			<td rowspan="3">Chapter7：结构体</td>
 			<td><a href="http://oj.lgwenda.com/problem/14" target="_blank">中级-day1</a></td>
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter7/day1.c" target="_blank">结构体输入输出</a></td>
 	</tr>
 	<tr>
 			<td><a href="http://oj.lgwenda.com/problem/15" target="_blank">中级-day2</a></td>
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter7/day2.cpp" target="_blank"> typedef和C++引用</a></td>
+	</tr>
+	<tr>
+			<td><a href="http://oj.lgwenda.com/problem/16" target="_blank">中级-day3</a></td>
+			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter7/day3.cpp" target="_blank"> 顺序表的增删改查</a></td>
 	</tr>
 </table>
 
