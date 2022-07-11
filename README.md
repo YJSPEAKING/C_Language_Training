@@ -1,4 +1,3 @@
-
 # C_Language_Training
 
 <div align=center>
@@ -67,7 +66,7 @@
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter6/week4_day12.c" target="_blank">递归函数求台阶上法</a></td>
 	</tr>
 	<tr>
-			<td rowspan="3">Chapter7：结构体</td>
+			<td rowspan="4">Chapter7：结构体</td>
 			<td><a href="http://oj.lgwenda.com/problem/14" target="_blank">中级-day1</a></td>
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter7/day1.c" target="_blank">结构体输入输出</a></td>
 	</tr>
@@ -78,6 +77,10 @@
 	<tr>
 			<td><a href="http://oj.lgwenda.com/problem/16" target="_blank">中级-day3</a></td>
 			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter7/day3.cpp" target="_blank"> 顺序表的增删改查</a></td>
+	</tr>
+	<tr>
+			<td><a href="http://oj.lgwenda.com/problem/17" target="_blank">中级-day4</a></td>
+			<td><a href="https://github.com/YJSPEAKING/C_Language_Training/blob/main/WangDao_OJ/Chapter7/day4.cpp" target="_blank"> 单链表的头插与尾插</a></td>
 	</tr>
 </table>
 
